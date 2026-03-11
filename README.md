@@ -20,7 +20,7 @@ Teachers, students, and researchers can use tools from GitHub to learn, enrich s
 ## 📚 GitHub Education Programs
 | 👩🏽‍🏫 Teacher Benefits | 🎒 Student Benefits | 🏫 School Benefits |
 | ------------- | ------------- | ------------- |
-| [Apply for Teacher Benefits](https://github.com/settings/education/benefits)) | [Apply for the Student Developer Pack](https://education.github.com/pack/join)  | [Apply to be a Partner School](https://education.github.com/discount_requests/application) ||
+| [Apply for Teacher Benefits](https://github.com/settings/education/benefits) | [Apply for the Student Developer Pack](https://education.github.com/pack/join)  | [Apply to be a Partner School](https://education.github.com/discount_requests/application) ||
 <br>
 *Please note you will need to be logged into your GitHub account to view the Benefits Application
 
@@ -86,7 +86,7 @@ Administer a classroom, assign and review work from your students, and teach the
 - [How to apply](https://docs.github.com/en/education/explore-the-benefits-of-teaching-and-learning-with-github-education/github-education-for-students/apply-to-github-education-as-a-student)
 - [What if my application isn’t approved?](https://docs.github.com/en/education/explore-the-benefits-of-teaching-and-learning-with-github-education/github-education-for-students/why-wasnt-my-application-to-github-education-for-students-approved)
 - [Student Developer Pack - Common Rejection Reasons](https://github.com/orgs/community/discussions/111352)
-- [Student Developer Pack Partner offer FAQs & full list](https://github.com/education/Student-Developer-Pack-Current-Partners-FAQ/blob/main/README.md)
+- [Student Developer Pack Partner offer FAQs & full list](https://github.com/github-education-resources/Student-Developer-Pack-Current-Partners-FAQ)
 - [What is the GitHub Community Exchange](https://docs.github.com/en/education/explore-the-benefits-of-teaching-and-learning-with-github-education/github-education-for-students/about-github-community-exchange)
 - [GitHub Education Overview for Students](https://youtu.be/HIVFdN9VGgw?feature=shared)
 - [Getting started in open source](https://www.twitch.tv/videos/2138897966?collection=0UAVKpQ2jBbFzg)
@@ -110,19 +110,19 @@ Administer a classroom, assign and review work from your students, and teach the
 - Issue a persistent identifier for your [repository with Zenodo](https://docs.github.com/en/repositories/archiving-a-github-repository/referencing-and-citing-content)
 - Add your research institution to [The Research Organization Registry (ROR)](https://ror.org/)
 - Read [The Turin Way Handbook](https://book.the-turing-way.org/index.html) to reproducible, ethical and collaborative data science
-- Learn how to build an inclusive culture of open science with [NASA TOPS training on Open science](https://app.openscience101.org)
+- Learn how to build an inclusive culture of open science with [NASA TOPS training on Open science](https://science.nasa.gov/open-science/training/)
 - Learn about Stanford University's [Living Textbook Intiative](https://digitaleducation.stanford.edu/news/living-textbooks-help-envision-era-educational-abundance)
 <br>
 
 
 ## GitHub Certifications
-- [GitHub Certification Registration](https://examregistration.github.com/overview)
+- [GitHub Certification Registration](https://docs.github.com/en/get-started/showcase-your-expertise-with-github-certifications/registering-for-a-github-certifications-exam)
 - [Learn how to become certified](https://education.github.com/experts)  
 - [GitHub Foundations Certification](https://learn.microsoft.com/en-us/collections/o1njfe825p602p)
 - [GitHub Advanced Security Certification](https://learn.microsoft.com/en-us/collections/rqymc6yw8q5rey)
 - [GitHub Administration Certification](https://learn.microsoft.com/en-us/collections/mom7u1gzjdxw03)
 - [GitHub Actions Certification](https://learn.microsoft.com/en-us/collections/n5p4a5z7keznp5)
-- [Certifications FAQ](https://examregistration.github.com/faq)
+- [Certifications FAQ](https://docs.github.com/en/get-started/showcase-your-expertise-with-github-certifications/about-github-certifications)
 <br>
 
 
@@ -161,7 +161,6 @@ Incorporate GitHub into your education, and use the same tools as the profession
 
 ## Participate in the GitHub Education community
 - [Education Community](https://github.com/orgs/community/discussions/categories/github-education)
-- [GitHub Education Discord](https://discord.gg/HHRrzDBH)
 - [GitHub Education TV](https://www.twitch.tv/githubeducation)
 - [Contribute with GitHub Community Exchange](https://docs.github.com/en/education/contribute-with-github-community-exchange)
 <br>
